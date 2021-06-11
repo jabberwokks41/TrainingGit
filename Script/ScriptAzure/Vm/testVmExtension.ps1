@@ -1,0 +1,1 @@
+﻿New-NetFirewallRule -DisplayName “rabbitmq” -Direction Inbound –Protocol TCP –LocalPort 5672 -Action allow

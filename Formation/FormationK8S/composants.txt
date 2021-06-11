@@ -1,0 +1,20 @@
+kube-apiserver : 
+
+etcd :
+
+kube-scheduler :
+
+kube-controller-manager :
+
+-node controller
+-replication controller
+-endpoints controller
+-service account & token controllers
+
+-----------------------------
+
+container runtime : docker, cryo, contai
+kubelet : 
+kube-proxy
+
+----------------------------------
